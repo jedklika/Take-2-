@@ -7,7 +7,7 @@ public class NewBehaviourScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Hello Aurora Game Dev @ gsu, Welcome to today's work shop on github");
+        Debug.Log("Github is challenging");
     }
 
     // Update is called once per frame
